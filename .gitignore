@@ -5,3 +5,10 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Serena
+.serena/
+
+# Kanban
+.kanban.json
+obsidian/kanban/tasks/lark-sync.json
